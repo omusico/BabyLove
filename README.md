@@ -2,6 +2,7 @@
 
 - react-native跨平台框架试用之作
 ![](https://raw.github.com/tiancheng2000/BabyLove/master/screenshot/ActivityListView.png)
+- [Download分享链接](http://pan.baidu.com/s/1boIUlbD)
 - 需运用如下知识点
   - React（React Native的Web开发前身）
   - ECMScript 6
