@@ -1,6 +1,7 @@
 # BabyLove
 
 - react-native跨平台框架试用之作
+![](https://raw.github.com/tiancheng2000/BabyLove/master/screenshot/ActivityListView.png)
 - 需运用如下知识点
   - React（React Native的Web开发前身）
   - ECMScript 6
@@ -21,4 +22,10 @@
     - Theme（仅静态切换）
 - 尚未涉及的知识点
   - [大] iOS版本调试
-
+  - UI
+    - Calendar画面中文化
+    - NavigatorBar, Footer布局
+    - Banner
+  - 功能
+    - 用户管理、多个宝宝管理
+    - 社区
