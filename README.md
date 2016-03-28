@@ -1,8 +1,9 @@
 # BabyLove
 
-- react-native跨平台框架试用之作
+- React-Native跨平台框架(FaceBook)试运用
+  - 与之前我设计的**[ThinkAlike框架](http://github.com/tiancheng2000/ThinkAlike)**一样、基于*MVVM架构*进行跨平台封装（后者采用了JavaScript）
 ![](https://raw.github.com/tiancheng2000/BabyLove/master/screenshot/ActivityListView.png)
-- [Download分享链接](http://pan.baidu.com/s/1boIUlbD)
+- [Android版下载链接](http://pan.baidu.com/s/1boIUlbD)
 - 需运用如下知识点
   - React（React Native的Web开发前身）
   - ECMScript 6
